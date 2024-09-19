@@ -6,7 +6,9 @@
 >> pip install pygame <br>
 >> pip install turtle
 ## tmplates from game 
-
+<img src="surprise/assets/gameDailog.png">
+<img src="surprise/assets/gameDailog.png">
+<img src="surprise/assets/gameDailog.png">
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
