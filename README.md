@@ -1,6 +1,6 @@
 ## snake game
 
 ## to use the project 
->> pip install pygame
+>> pip install pygame <br>
 >> pip install turtle
 ## tmplates from game 
