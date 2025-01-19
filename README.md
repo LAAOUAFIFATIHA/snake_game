@@ -1,7 +1,8 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
-## snake game
+## snake game <img src="http://i.imgur.com/Cj4rMrS.gif" height="40" alt="Swimming Octocat" title="Games on GitHub">
+
 The Snake game is a classic arcade game that has captivated players for decades. In this game, the player controls a snake that moves around the screen, consuming food to grow longer. The objective is to eat as much food as possible without colliding with the walls of the game area or running into itself.
 
 ## tmplates from game 
